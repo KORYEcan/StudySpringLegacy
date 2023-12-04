@@ -1,0 +1,25 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(óûæò8â´úÙÂ1
+b	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(çÓ½8à¨ûÙÂ1
+L
+java:S3740"/Provide the parametrized type for this generic.(·´Êö8ã´úÙÂ1
+L
+java:S3740&"/Provide the parametrized type for this generic.(´¸³¢8à¨ûÙÂ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øŠàŸøÿÿÿÿ8ğĞÛÙÂ1
+j
+java:S2095$"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÜèÀÍşÿÿÿÿ8ì´úÙÂ1
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÜèÀÍşÿÿÿÿ8é¨ûÙÂ1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Êå¹—şÿÿÿÿ8üĞÛÙÂ1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(óì üÿÿÿÿ8ıĞÛÙÂ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ôşˆ¶8ì¨ûÙÂ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©ÁÈ8í¨ûÙÂ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²î…‰8í¨ûÙÂ1
+U
+java:S1874 "3Remove this use of "newInstance"; it is deprecated.(áı¼ùÿÿÿÿ8÷´úÙÂ1
+P
+java:S1874'"3Remove this use of "newInstance"; it is deprecated.(Ô¯äĞ8ğ¨ûÙÂ1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ò”ïÙÂ1

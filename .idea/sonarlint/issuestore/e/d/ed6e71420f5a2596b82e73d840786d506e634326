@@ -1,0 +1,26 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(†è¹Òşÿÿÿÿ8ÅÒÚÚÂ1
+L
+java:S3740"/Provide the parametrized type for this generic.(òÆéÄ8á†ÜÚÂ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÊÂÜ²úÿÿÿÿ8ÅÒÚÚÂ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÎ—šüÿÿÿÿ8ÆÒÚÚÂ1
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÜèÀÍşÿÿÿÿ8ĞÒÚÚÂ1
+d
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(Êå¹—şÿÿÿÿ8ĞÒÚÚÂ1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(óì üÿÿÿÿ8ÑÒÚÚÂ1
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Æ—Ÿ¤8ÕÒÚÚÂ1
+P
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(öÈâ‰8ÖÒÚÚÂ1
+
+java:S1130,"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8×ÒÚÚÂ1
+X	java:S125-"<This block of commented-out lines of code should be removed.(ôşˆ¶8×ÒÚÚÂ1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(©ÁÈ8ØÒÚÚÂ1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(²î…‰8ØÒÚÚÂ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ØÒÚÚÂ1
