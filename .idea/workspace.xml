@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="366ae9fe-89fa-40e5-8ab1-e57077f3b425" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../ch2/src/main/resources/templates/yoil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -281,7 +280,7 @@
       <workItem from="1701628258226" duration="675000" />
       <workItem from="1701661625967" duration="281000" />
       <workItem from="1701662184254" duration="652000" />
-      <workItem from="1701662847871" duration="1091000" />
+      <workItem from="1701662847871" duration="1414000" />
     </task>
     <servers />
   </component>
