@@ -29,7 +29,7 @@ class Car {
     }
 
        @Autowired
-    public Car(@Vgit alue("red") String color, @Value("100") int oil, Engine engine, Door[] doors) {
+    public Car(@Value("red") String color, @Value("100") int oil, Engine engine, Door[] doors) {
         this.color = color;
         this.oil = oil;
         this.engine = engine;
