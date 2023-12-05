@@ -11,17 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="366ae9fe-89fa-40e5-8ab1-e57077f3b425" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../ch2/src/main/resources/templates/yoil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fastcampus/ch3/DBConnectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fastcampus/ch3/DBConnectionTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fastcampus/ch3/DBConnectionTest2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fastcampus/ch3/ApplicationContextTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fastcampus/ch3/ApplicationContextTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fastcampus/ch3/DBConnectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fastcampus/ch3/DBConnectionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/root-context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -320,7 +310,7 @@
       <workItem from="1701661625967" duration="281000" />
       <workItem from="1701662184254" duration="652000" />
       <workItem from="1701662847871" duration="1894000" />
-      <workItem from="1701773866900" duration="4491000" />
+      <workItem from="1701773866900" duration="4911000" />
     </task>
     <servers />
   </component>
